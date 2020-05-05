@@ -35,6 +35,9 @@ public class MainActivity extends AppCompatActivity {
         NotificationManagerCompat notificationManagerCompat = NotificationManagerCompat.from(this);
         notificationManagerCompat.notify(1, mBuiler.build());
     }
+    private void sed(){
+
+    }
 
 
 }
